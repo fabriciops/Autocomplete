@@ -4,5 +4,5 @@ pela sua usabilidade e possíveis experiências do usuário dependendo da aplica
 
 Estarei colocando no ar em breve no domínio abaixo:
 
-https://www.psdesigneweb.com.br/autocomplete
+http://psdesigneweb.com.br/estudo/php/Autocomplete/
 

@@ -15,7 +15,7 @@
       }  
       else  
       {  
-           $output .= '<li>Country Not Found</li>';  
+           $output .= '<li>Não encontrado</li>';  
       }  
       $output .= '</ul>';  
       echo $output;  

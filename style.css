@@ -1,0 +1,21 @@
+ul{  
+    background-color: rgb(127, 157, 255); 
+    -webkit-animation: fade 1s 0s ;
+    cursor:pointer;
+    position: absolute;
+    border-radius: 10px;
+}  
+li{  
+    padding:12px;  
+}
+
+  
+  @keyframes fade {
+      from {opacity: 0;}
+      to {opacity: 1;}
+  }
+  
+  @keyframes bright {
+      from {-webkit-filter: brightness(1);}
+      to {-webkit-filter: brightness(3);}
+  }

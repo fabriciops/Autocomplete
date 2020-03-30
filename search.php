@@ -1,5 +1,5 @@
 <?php  
- $connect = mysqli_connect("localhost", "root", "", "teste");  
+ $connect = mysqli_connect("localhost", "root", "123456", "teste");  
  if(isset($_POST["query"]))  
  {  
       $output = '';  
